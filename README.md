@@ -45,17 +45,3 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
 </div>
-
-###
-
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=KarakusBaran&show_icons=true&theme=dracula&hide_border=true" alt="Baran's Github Stats" />
-  </a>
-  <br/>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarakusBaran&layout=compact&theme=dracula&hide_border=true" alt="Baran's Top Langs" />
-  </a>
-</div>
-
-###
